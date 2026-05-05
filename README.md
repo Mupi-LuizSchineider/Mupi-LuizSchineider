@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Oi%2C+eu+sou+o+Luiz+%F0%9F%91%8B;Desenvolvedor+Web;Python+%7C+Django+%7C+Tailwind+CSS)](https://git.io/typing-svg)
 
----
 
 ## 🚀 Stack & Ferramentas
 
